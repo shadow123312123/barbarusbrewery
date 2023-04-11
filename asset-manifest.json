@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/barbarusbrewery/static/css/main.97b30115.css",
+    "main.js": "/barbarusbrewery/static/js/main.c28b3e4e.js",
+    "static/media/cider apple.png": "/barbarusbrewery/static/media/cider apple.e6976cbaca115fca988c.png",
+    "static/media/cider berry.png": "/barbarusbrewery/static/media/cider berry.e6976cbaca115fca988c.png",
+    "static/media/mead ligonberry.png": "/barbarusbrewery/static/media/mead ligonberry.e6976cbaca115fca988c.png",
+    "static/media/mead melon.png": "/barbarusbrewery/static/media/mead melon.e6976cbaca115fca988c.png",
+    "static/media/munich dark.png": "/barbarusbrewery/static/media/munich dark.19dbbfeb053d57b94174.png",
+    "static/media/porter.png": "/barbarusbrewery/static/media/porter.19dbbfeb053d57b94174.png",
+    "static/media/stout.png": "/barbarusbrewery/static/media/stout.19dbbfeb053d57b94174.png",
+    "static/media/blanche.png": "/barbarusbrewery/static/media/blanche.dcfa4a729cfca8c2223a.png",
+    "static/media/kellerbier.png": "/barbarusbrewery/static/media/kellerbier.dcfa4a729cfca8c2223a.png",
+    "static/media/munich.png": "/barbarusbrewery/static/media/munich.dcfa4a729cfca8c2223a.png",
+    "static/media/waissbier.png": "/barbarusbrewery/static/media/waissbier.dcfa4a729cfca8c2223a.png",
+    "static/media/zwickelbier.png": "/barbarusbrewery/static/media/zwickelbier.dcfa4a729cfca8c2223a.png",
+    "static/media/ipa.png": "/barbarusbrewery/static/media/ipa.af6af45413ed364ab615.png",
+    "static/media/apa.png": "/barbarusbrewery/static/media/apa.bd0430b8cbc356aca28a.png",
+    "index.html": "/barbarusbrewery/index.html",
+    "main.97b30115.css.map": "/barbarusbrewery/static/css/main.97b30115.css.map",
+    "main.c28b3e4e.js.map": "/barbarusbrewery/static/js/main.c28b3e4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97b30115.css",
+    "static/js/main.c28b3e4e.js"
+  ]
+}
