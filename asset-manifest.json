@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/barbarusbrewery/static/css/main.889c1198.css",
-    "main.js": "/barbarusbrewery/static/js/main.2fd132d1.js",
+    "main.js": "/barbarusbrewery/static/js/main.8d0262ae.js",
     "static/media/cider apple.png": "/barbarusbrewery/static/media/cider apple.e6976cbaca115fca988c.png",
     "static/media/cider berry.png": "/barbarusbrewery/static/media/cider berry.e6976cbaca115fca988c.png",
     "static/media/mead ligonberry.png": "/barbarusbrewery/static/media/mead ligonberry.e6976cbaca115fca988c.png",
@@ -18,10 +18,10 @@
     "static/media/apa.png": "/barbarusbrewery/static/media/apa.bd0430b8cbc356aca28a.png",
     "index.html": "/barbarusbrewery/index.html",
     "main.889c1198.css.map": "/barbarusbrewery/static/css/main.889c1198.css.map",
-    "main.2fd132d1.js.map": "/barbarusbrewery/static/js/main.2fd132d1.js.map"
+    "main.8d0262ae.js.map": "/barbarusbrewery/static/js/main.8d0262ae.js.map"
   },
   "entrypoints": [
     "static/css/main.889c1198.css",
-    "static/js/main.2fd132d1.js"
+    "static/js/main.8d0262ae.js"
   ]
 }
