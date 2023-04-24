@@ -31,7 +31,7 @@
 }
 
 .image__container img {
-    width: 100%;
+    width: 200%;
     object-fit: cover;
 
 }
